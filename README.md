@@ -1,9 +1,9 @@
 
 
 # HyDE RAG
-## **Hipotetik Doküman Gömme (Hypothetical Document Embeddings)** ile Bilgi Getirimini Güçlendirme
+## **Hipotetik(VARSAYIMSAL) Doküman Gömme (Hypothetical Document Embeddings)** ile Bilgi Getirimini Güçlendirme
 
-* **Açıklama** - HyDE RAG  — Hipotetik Doküman Gömmelerinin geleneksel RAG'e kıyasla bilgi getirimini nasıl iyileştirdiğini öğrenin ve adım adım eksiksiz HyDE mimarisini uygulayın.
+* **Açıklama** - HyDE RAG  — Hipotetik veya VARSAYIMSAL Doküman Gömmelerinin geleneksel RAG'e kıyasla bilgi getirimini nasıl iyileştirdiğini öğrenin ve adım adım eksiksiz HyDE mimarisini uygulayın.
 
 
 ---
