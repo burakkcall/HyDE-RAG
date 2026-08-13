@@ -50,6 +50,5 @@ Dolayısıyla tek değişiklik başlangıçtaki ekstra adımdır: **sorgu → va
 * Dokümanların yazım tarzını yansıtır, böylece vektör benzerliği çok daha iyi hizalanır.
 * Özellikle teknik veya uzmanlık gerektiren alanlarda bilgi getirim başarısı (recall) artar.
 
-Özetle: HyDE, geleneksel RAG'in en zayıf halkasını (sorgu gömmeleri) ek bir ucuz LLM çağrısı ile güçlendirir.
-README.md
-README.md görüntüleniyor.
+Özetle HyDE, geleneksel RAG'in en zayıf halkasını (sorgu gömmeleri) ek bir karşılık LLM çağrısı ile güçlendirir.
+
