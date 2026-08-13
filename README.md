@@ -1,7 +1,7 @@
 
 
 # HyDE RAG
-## **Varsayımsal Doküman Gömme (Hypothetical Document Embeddings)** ile Bilgi Getirimini Güçlendirme
+## **Hipotetik Doküman Gömme (Hypothetical Document Embeddings)** ile Bilgi Getirimini Güçlendirme
 
 * **Açıklama** - HyDE RAG Açıklaması — Kavramdan Uygulamaya: Varsayımsal Doküman Gömmelerinin geleneksel RAG'e kıyasla bilgi getirimini nasıl iyileştirdiğini öğrenin ve adım adım eksiksiz HyDE mimarisini uygulayın.
 
