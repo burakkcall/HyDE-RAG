@@ -1,47 +1,12 @@
 
-Gemini ile sohbet
-baştaki markdown kısmı readme olarak yap türkçe ve çıkart. kodlardaki ingilizce yazılmış yazılım dili haricindekileri türkçe yap dosyayı ver
 
-İstediğiniz düzenlemeler tamamlandı:
-
-README.md: Notebook'un başındaki açıklayıcı Markdown bölümü Türkçe'ye çevrilerek ayrı bir README dosyasına dönüştürüldü.
-
-Jupyter Notebook (.ipynb): Kod içerisindeki değişken isimleri, fonksiyon adları, sınıf tanımları, yorum satırları ve yönlendirme (prompt) metinleri (yazılım kütüphaneleri ve temel Python anahtar kelimeleri hariç) Türkçe'ye çevrildi.
-
-Dosyaları aşağıdan indirebilirsiniz:
-
-README Dosyası: 
-MD simgesi
-README
- MD 
-Açık
-
-Güncellenmiş Türkçe Notebook: 
-IPYNB simgesi
-hyde_rag_turkce
- IPYNB 
-Açık
-
-
-
-
-Gemini bir yapay zeka modeli olduğu için hata yapabilir.
-
-Analiz ediliyor
-# HyDE RAG Açıklaması — Kavramdan Uygulamaya
+# HyDE RAG
 ## **Varsayımsal Doküman Gömme (Hypothetical Document Embeddings)** ile Bilgi Getirimini Güçlendirme
 
-* **Yazar** - www.elastropy.com
-* **Açıklama** - HyDE RAG Açıklaması — Kavramdan Uygulamaya: Varsayımsal Doküman Gömmelerinin geleneksel (vanilla) RAG'e kıyasla bilgi getirimini nasıl iyileştirdiğini öğrenin ve adım adım eksiksiz HyDE mimarisini uygulayın.
-* **Destek** - Sorularınız, önerileriniz veya hata bildirimleriniz için lütfen elastropy@gmail.com adresine e-posta gönderin.
+* **Açıklama** - HyDE RAG Açıklaması — Kavramdan Uygulamaya: Varsayımsal Doküman Gömmelerinin geleneksel RAG'e kıyasla bilgi getirimini nasıl iyileştirdiğini öğrenin ve adım adım eksiksiz HyDE mimarisini uygulayın.
+
 
 ---
-
-## Geleneksel (Vanilla) RAG Nedir?
-
-Arama Artırımlı Üretim (Retrieval-Augmented Generation - RAG), büyük dil modellerinin yalnızca eğitim verilerine bağımlı kalmak yerine harici bilgi kaynaklarına "bakmalarına" izin vererek onları geliştiren bir yöntemdir.
-
-İş akışı oldukça basittir:
 
 $$\text{Sorgu} \;\xrightarrow{\;gömme\;}\; \text{Arama Motoru (Top-}k\text{)} \;\xrightarrow{\;bağlamı\;sorguyla\;birleştir\;}\; \text{LLM} \;\longrightarrow\; \text{Nihai Yanıt}$$
 
