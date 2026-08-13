@@ -34,7 +34,7 @@ En zayıf halka **sorgu gömme (query embedding)** adımıdır.
 
 *‘Sıkıştırılamaz akışlar için Fizik Bilgili Yapay Sinir Ağlarında, ıraksama olmaması (divergence-free) kısıtlamaları, genellikle otomatik türev kullanılarak kayıp fonksiyonundaki hız alanının ıraksamasını cezalandırarak sağlanır.’*
 
-Bu "varsayımsal yanıt", veri kümesindeki gerçek bir pasaja çok benzer: tam cümleler, teknik terimler ve açıklayıcı ifadeler içerir. Bu nedenle, vektör temsili gerçek ilgili parçalara çok daha yakındır.
+Bu "varsayımsal yanıt", prompt akışına çok benzer: tam cümleler, teknik terimler ve açıklayıcı ifadeler içerir. Bu nedenle, vektör temsili ilgili parçalara çok daha yakın bağlamda sorulmuştur.
 
 HyDE ile iş akışının değişimi şu şekildedir:
 
